@@ -1,0 +1,36 @@
+﻿{
+"name": "Live!!! Football Today",
+"author": "JobPunch",
+"url": "https://drive.google.com/uc?id=1nHDtVN8oVm5fbjBoue1V6Mg-_2CZ4Rdx&export=download", 
+"image": "https://thumbs.dreamstime.com/b/live-football-streaming-icon-button-broadcasting-online-football-stream-vector-stock-illustration-live-football-streaming-126194121.jpg",
+"groups": [
+
+{
+"name": "Live!!! Football Server1",
+"image": "https://banner2.cleanpng.com/20180622/hua/kisspng-database-server-computer-servers-computer-icons-cl-5b2d24fb1ece18.4994035715296852431262.jpg",	
+"url": "https://drive.google.com/uc?id=1UVgxHzHjzJgh3kv5K5a-Sbk3rx07cOB0&export=download",
+"import": false
+},
+
+{
+"name": "Live!!! Football Server2",
+"image": "https://img.favpng.com/21/0/2/database-server-icon-png-favpng-d9QqaqnFw0SRATfwkbcheDHv0.jpg",	
+"url": "https://drive.google.com/uc?id=11vMQg4v8AFfNnghzn6rqcB4bfPy4tyPR&export=download",
+"import": false
+},
+
+{
+"name": "Live!!! Football Server3",
+"image": "https://banner2.cleanpng.com/20180622/hua/kisspng-database-server-computer-servers-computer-icons-cl-5b2d24fb1ece18.4994035715296852431262.jpg",	
+"url": "https://drive.google.com/uc?id=1PqtynR4nUoy0ALJsSsY-My-EK_ayetAR&export=download",
+"import": false
+},
+
+{
+"name": "Live!!! Football Server4",
+"image": "https://img.favpng.com/21/0/2/database-server-icon-png-favpng-d9QqaqnFw0SRATfwkbcheDHv0.jpg",	
+"url": "https://drive.google.com/uc?id=1fh4j6PKlMIDrTS4Pg8qkAlrkmZJ-8QUp&export=download",
+"import": false
+},
+
+]}
