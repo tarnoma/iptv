@@ -1,0 +1,90 @@
+{
+"name": "Series Disney+hotstar",
+"author": "liverpool",
+"image": "https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/disney_plus_660_050220013057_060220075157.jpg",
+"groups":[
+ 
+{
+"name": "Loki พากษ์ไทย",
+"image":"https://otakukart.com/wp-content/uploads/2021/06/loki-episode-3-release-date.jpg",
+"url": "https://www.dropbox.com/s/y6ot19devv104od/loki?dl=1",
+"import": false
+},
+ 
+{
+"name": "Wanda Vision พากษ์ไทย",
+"image":"https://www.nanatv.co/wp-content/uploads/2021/01/12452.jpeg",
+"url": "https://www.dropbox.com/s/dqum1plieabkqoi/wandavision?dl=1",
+"import": false
+},
+ 
+{
+"name": "The falcon and the Winter พากษ์ไทย",
+"image":"https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/04/25/16193573608089.jpg",
+"url": "https://www.dropbox.com/s/6sz24nkqes6jlwj/the%20falcon%20and%20the%20winter%20soldier?dl=1",
+"import": false
+},
+ 
+{
+"name": "Record of Ragnarok (2021) มหาศึกคนชนเทพ (พากย์ไทย)",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPZkWqrtPlDHjs73St9j8KpT3GU66xh8zVBw&usqp=CAU",
+"url": "https://www.dropbox.com/s/13c0e2abv3my0r8/record%20of%20ragnarok%20%282021%29%20%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%84%E0%B8%99%E0%B8%8A%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%9E?dl=1",
+"import": false
+},
+ 
+{
+"name": "ซีรี่ย์เกาหลี",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3qJVI5YNLvO9CLeWN0ZiLDcLfRXXoTQEuig&usqp=CAU",
+"url": "https://pastebin.com/raw/YCMbKn2r",
+"import": false
+},
+ {
+"name": "NEW MOVIE",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxMuylRli-YB_3e5rrsnD8xAQpSJYBoGE_aw&usqp=CAU",
+"url": "https://docs.google.com/uc?export=download&id=18X_gOhtcXhIZxxGH-bx8cbENRspS42c1",
+"import": false
+},
+{
+"name": "หนังไทยหลาย พ.ศ.",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCD7ctLBOpEdz2VQE0EnvxAPW_y8eydMl5iQ&usqp=CAU",
+"url": "https://docs.google.com/uc?export=download&id=1dRLwkqDIV36QxwlDH8ia6DBM47XqbdY_",
+"import": false
+},
+{
+"name": "movie animetion",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-fpzq3mEwURoRbuTyPbTfnfVtHWlCHO5R0A&usqp=CAU",
+"url": "https://docs.google.com/uc?export=download&id=1H-8f88r3-rk_tQMEpCgy4JRgnQEOOLXU",
+"import": false
+},
+{
+"name": "หนังสยองขวัญ",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY3Paqkt58pLhIc94ATj5XLAHYfn2PwUJzUQ&usqp=CAU",
+"url": "https://docs.google.com/uc?export=download&id=1xINu35IUp2hEH9vyONeJTqxF_D1frpCO",
+"import": false
+},
+{
+"name": "รวมหนังชอว์บราเดอร์ส",
+"image": "https://drive.google.com/uc?id=1dhFfJGYocxwh1wX781T_qhxyyi4HdshF",
+"url": "https://pastebin.com/raw/qCUMyV2B",
+"import": "true"
+},
+{
+"name": " หนังไทยย้อนยุค ",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkeV7Uk1AL5FOuSDnYrMujxVVTU_7A_AxNRg&usqp=CAU",
+"url": "https://dl.dropbox.com/s/ewig7zuu1mh743h/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%84%E0%B8%97%E0%B8%A2%20%E0%B8%A2%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B8%A2%E0%B8%B8%E0%B8%84%20.w3u?dl=0",
+"import": "true"
+},
+{
+"name": "ละครที่กำลังฉาย",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgb9Z0PRgCaqbHi_gw9GieDDVlKMQJO63b7w&usqp=CAU",
+"url": "https://pastebin.com/ejEqmpcb",
+"import": false
+},
+{
+"name": "ละครจบแล้ว",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDOOZg894hLEGMUM-JOUN9Ikgb20oVjV9OCg&usqp=CAU",
+"url": "https://drive.google.com/uc?id=1JXsEWfJjhz2qH6Wzok4CtuASdFHYgxN-",
+"import": "true"
+},
+]
+}

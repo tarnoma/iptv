@@ -1,0 +1,234 @@
+{
+		"name": "Documentary  TV",
+		"author": "Playlist Developers2905",
+ "image": "https://sv1.picz.in.th/images/2021/06/20/scLJ9k.jpg",
+	  "url": "",
+		 "info": "พวกกอป ไม่มีปัญญาทำใช้เอง ขอกินขอใช้ อย่างกับขอทาน",
+
+		"stations":[
+
+{name:"  planet ais",image:"https://www.dropbox.com/s/kq91azuipebhzn9/jfM371.png?dl=1",url:"https://we-play.live/watching/tv/animal-planet",referer:""},
+
+{name:"   planet ais",image:"https://www.dropbox.com/s/kq91azuipebhzn9/jfM371.png?dl=1",url:"https://www.doofootball.com/dootv/live/animalplanet#main_dootv",referer:""},
+
+{"name": " planet true   ","image": "https://www.dropbox.com/s/kq91azuipebhzn9/jfM371.png?dl=1","url":"https://embed-dev.blackboxsys.net/player.php?channel=sd-animalplanet&api_key=hmcb4rf66f&ref=none","referer": "https://dooball66.com","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","info": "","desktop": "true"},
+{"name": " planet true   ","image": "https://www.dropbox.com/s/kq91azuipebhzn9/jfM371.png?dl=1","url":"https://embed-dev.blackboxsys.net/player.php?channel=sd-animalplanet&api_key=hmcb4rf66f&ref=none","referer": "https://dooball66.com","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","info": "","desktop": "true"},
+
+
+
+{name:"       ",image:"https://www.dropbox.com/s/m7d75thv8m7vb03/jhd5bI.png?dl=1",url:"https://we-play.live/watching/tv/lovenature-4k",referer:"https://player.we-play.tv"},
+{name:"       ",image:"https://www.dropbox.com/s/m7d75thv8m7vb03/jhd5bI.png?dl=1",url:"https://we-play.live/watching/tv/lovenature-4k",referer:"https://player.we-play.tv"},
+{name:"",image:"https://www.dropbox.com/s/m7d75thv8m7vb03/jhd5bI.png?dl=1",url:"http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8",referer:"https://player.we-play.tv"},
+{name:"",image:"https://www.dropbox.com/s/m7d75thv8m7vb03/jhd5bI.png?dl=1",url:"https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",referer:"https://player.we-play.tv"},
+
+{"name": "","image": "https://www.dropbox.com/s/bw9oy2klbfyvxmb/IMG_20210826_235358.png?dl=1","url": "http://203.154.177.124:8899/live/ch23/chunks.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "userAgent": "exoplayer_video","playInNatPlayer": "true"},
+{"name": "","image": "https://www.dropbox.com/s/bw9oy2klbfyvxmb/IMG_20210826_235358.png?dl=1","url": "https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+
+{name:"   BBC earth ",image:"https://www.dropbox.com/s/8iw1m4yxjlcot6j/IMG_20210429_033715.png?dl=1",url:"https://www.doofree88.com/live/bbc-earth",referer:""},
+{"name": "",  "image": "https://www.dropbox.com/s/8iw1m4yxjlcot6j/IMG_20210429_033715.png?dl=1",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=sd-bbcearth&api_key=hmcb4rf66f&ref=none","referer": "https://dooball66.com","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","info": "","desktop": "true"},
+
+
+
+{name:"    ",image:"https://sv1.picz.in.th/images/2021/11/05/unHhmP.png",url:"https://ustvgo.tv/bbc-america-live/",referer:""},
+{name:"    	  ",image:"https://sv1.picz.in.th/images/2021/11/05/unHhmP.png",url:"https://ustvgo.tv/bbc-america-live/",referer:""},
+
+
+
+
+
+
+{name:"    history  ",image:"https://www.dropbox.com/s/y9qfgi11ztt2w9h/hd-history.png?dl=1",url:"https://we-play.live/watching/tv/history-hd",referer:"https://dooball66.com/"},
+{name:"       ",image:"https://www.dropbox.com/s/y9qfgi11ztt2w9h/hd-history.png?dl=1",url:"https://www.doofree88.com/live/history",referer:"https://player.we-play.tv"},
+
+
+
+
+{"name": "      สำรวจโลก ","image": "https://www.dropbox.com/s/n9x7lj1stgmsgle/jhdq9Z.png?dl=1","url": "http://203.159.95.172:8081/live/explore/playlist.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+{"name": "          ","image": "https://www.dropbox.com/s/n9x7lj1stgmsgle/jhdq9Z.png?dl=1","url": "https://bit.ly/3Balqka","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "playInNatPlayer": "true"},
+
+{name:"      สาระดี",image:"https://www.dropbox.com/s/9zumkogbsapzkr0/jh0ofb.png?dl=1",url:"https://61022bdc19cd4.streamlock.net/edgelivepsi/PSIHD.stream_720p/chunklist.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "userAgent": "exoplayer_video","playInNatPlayer": "true"},
+{name:"     ",image:"https://www.dropbox.com/s/9zumkogbsapzkr0/jh0ofb.png?dl=1",url:"https://www.inwiptv.com/player_demo.php?channel=9039","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "userAgent": "exoplayer_video","playInNatPlayer": "true"},
+
+
+{name:"      H2  ",image:"https://www.dropbox.com/s/y5xhfq56mjxm5xb/IMG_20210401_021339.png?dl=1",url:"https://www.doofree88.com/live/h2",referer:"https://player.we-play.tv"},
+{name:"        ",image:"https://www.dropbox.com/s/y5xhfq56mjxm5xb/IMG_20210401_021339.png?dl=1",url:"https://we-play.live/watching/tv/history-h2",referer:"https://player.we-play.tv"},
+
+
+
+{name:"   ais",image:"https://www.dropbox.com/s/oep97wj2e1uvizx/afdc500920cb38d2ae4e9c7ba0a3442e.png?dl=1",url:"https://we-play.live/watching/tv/discovery-channel",referer": "https://dooball66.com","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","info": "","desktop": "true"},
+
+{"name": "   true",  "image": "https://www.dropbox.com/s/oep97wj2e1uvizx/afdc500920cb38d2ae4e9c7ba0a3442e.png?dl=1",  
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=sd-discovery&api_key=hmcb4rf66f&ref=none","referer": "https://dooball66.com","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","info": "","desktop": "true"},
+
+
+
+{name:"    asia ",image:"https://www.dropbox.com/s/apfwpr9l6s66kth/jhWiLQ.png?dl=1",url:"https://we-play.live/watching/tv/discovery-asia",referer:"https://player.we-play.tv"},
+{name:"       ",image:"https://www.dropbox.com/s/apfwpr9l6s66kth/jhWiLQ.png?dl=1",url:"https://www.doofree88.com/live/discovery-asia",referer:""},
+
+
+{name:"      Nat GEO    ",image:"https://sv1.picz.in.th/images/2021/11/05/unX0RR.png",url:"https://www.doofree88.com/live/national-geographic",referer:"https://player.we-play.tv"},
+{"name": "    ","image": "https://sv1.picz.in.th/images/2021/11/05/unX0RR.png","url":"https://embed-dev.blackboxsys.net/player.php?channel=hd-natgeo&api_key=hmcb4rf66f&ref=none","referer": "https://dooball66.com","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","info": "","desktop": "true"},
+
+
+    {name:"      Net WILD ",image:"https://www.dropbox.com/s/guqkkl8ubnzaolg/jhdQmu.png?dl=1",url:"https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8","playInNatPlayer": "true"},
+{name:"      ",image:"https://www.dropbox.com/s/guqkkl8ubnzaolg/jhdQmu.png?dl=1",url:"https://telefullenvivo.com/ver-canal-national-geographic-will-en-vivo-online/","playInNatPlayer": "true"},
+
+
+
+{"name":"   ","image":"https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F76f8506f-b775-4a6f-ba79-752ecb8ee516.png&w=320&h=240","url":"https://www.doofootball.com/dootv/live/truesci#main_dootv","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+
+{"name":"    TRUE WILD","image":"https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F4c6e4330-9408-4280-8b5d-7d3b37305ce0.png&w=320&h=240","url":"https://www.doofree88.com/live/explore-wild",referer:""},
+
+    
+
+{name:"     4K  ",image:"https://sv1.picz.in.th/images/2021/03/30/Da4Euq.png",url:"http://39.135.138.60:18890/PLTV/88888910/224/3221225786/index.m3u8",referer:""},
+
+
+{"name":"       Reality ","image":"https://www.dropbox.com/s/91veh09uw46khqz/IMG_20210513_184830.png?dl=1","url":"https://tv.trueid.net/embed/realitychannel-hd?autoplay=yes&nopageview=yes","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{"name":"    ปลูกปํญญา","image":"https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F1d7dc8be-49df-46c7-ac16-4847229c6ab9.png&w=320&h=240","url":"http://www.trueplookpanya.com/new/tv_live?var_link=720p","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+
+
+
+
+{name:"       AKE",image:"https://www.dropbox.com/s/4qxgk8n9iq5mmq6/oDuLxP.png?dl=1",url:"https://video.blivenyc.com/broadcast/prod/2061/22/desktop-playlist.m3u8",referer:""},
+{name:"      pet",image:"https://www.dropbox.com/s/fru99pfzzfb017v/ooWcJV.png?dl=1",url:"https://the-pet-collective-international-de.samsung.wurl.com/manifest/playlist.m3u8",referer:"https://www.doomovie-hd.com"},
+
+{name:"    CAT ",image:"https://www.dropbox.com/s/un6cmw2vilyd71p/A9Qixg.png?dl=1",url:"http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db6a56ce10f0b0009e64037/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=f7067de2-33bf-11eb-bb3e-5b164828c024&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1305d7f3-c615-456c-80b5-0dc0732325d3&userId=&serverSideAds=true",referer:"https://www.doomovie-hd.com"},
+{name:"    DOG ",image:"https://www.dropbox.com/s/j2folsm92s245lg/A9QZaS.png?dl=1",url:"http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8dc1d8da13e15d9fce6911/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=f70656d1-33bf-11eb-bb3e-5b164828c024&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=17f2c1d3-2861-42dc-a7e7-c8db13fc4d18&userId=&serverSideAds=true",referer:"https://www.doomovie-hd.com"},
+
+{name:"         1",image:"https://www.dropbox.com/s/ifjlhc9e2iuz6ii/A9xMM8.png?dl=1",url:"https://aenetworks-skills-thrills-1.plex.wurl.com/manifest/playlist.m3u8",referer:"https://www.doomovie-hd.com"},
+{name:"         2",image:"https://www.dropbox.com/s/ifjlhc9e2iuz6ii/A9xMM8.png?dl=1",url:"https://aenetworks-skills-thrills-1.roku.wurl.com/manifest/playlist.m3u8",referer:"https://www.doomovie-hd.com"},
+
+{name:"         3",image:"https://www.dropbox.com/s/ifjlhc9e2iuz6ii/A9xMM8.png?dl=1",url:"https://aenetworks-skills-thrills-1.samsung.wurl.com/manifest/playlist.m3u8",referer:"https://www.doomovie-hd.com"},
+
+
+ 
+{name:"     naturescape",image:"https://www.dropbox.com/s/xx1azajtnhzg4ih/otLNhE.png?dl=1",url:"https://stingray-naturescape-1.samsung.wurl.com/manifest/playlist.m3u8",referer:"https://player.we-play.tv"},
+{"name": "  ",  "image": "https://www.dropbox.com/s/xx1azajtnhzg4ih/otLNhE.png?dl=1",  "url": "http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8","playInNatPlayer": "true"},
+
+{name:"      ",image:"https://www.dropbox.com/s/o21vs03qfnn7qlf/otvduW.png?dl=1",url:"https://vod365-planet-knowledge-1-gb.samsung.wurl.com/manifest/playlist.m3u8",referer:""},
+{name:"      docurama",image:"https://www.dropbox.com/s/v5iob5y1t159qnz/otGxbD.png?dl=1",url:"https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8",referer:"https://player.we-play.tv"},
+
+{name:"   CYCLE",image:"https://www.dropbox.com/s/t5bx9e4d3vgl24z/otIqog.png?dl=1",url:"http://a.jsrdn.com/broadcast/3e5befe5dd/+0000/high/c.m3u8",referer:"https://player.we-play.tv"},
+
+
+{"name": "      outdoor ",  "image": "https://www.dropbox.com/s/qxfx5vjv3hbraey/jpBKzV.png?dl=1",  "url": "https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8",referer:""},
+{"name": "     ",  "image": "https://www.dropbox.com/s/qxfx5vjv3hbraey/jpBKzV.png?dl=1",  "url": "https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8","playInNatPlayer": "true"},
+ 
+ {name:"    outside ",image:"https://www.dropbox.com/s/tc96ev2e3l3b8f2/litzQI.png?dl=1",url:"https://outside-tv.samsung.wurl.com/manifest/playlist.m3u8",referer:""},
+ {name:"    ",image:"https://www.dropbox.com/s/7enwkbv1obt796d/211880158_317647350055536_1859020457975750952_n.png?dl=1",url:"https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8",referer:""},
+
+
+
+
+{"name": "  CGTN ",  "image": "https://www.dropbox.com/s/y7xl0i2rs3p8m3y/lXgjp1.png?dl=1",  "url": "https://livedoc.cgtn.com/1000d/prog_index.m3u8","playInNatPlayer": "true"},
+{"name": "",  "image": "https://www.dropbox.com/s/qdosk6qbpisfl2z/149038149_430413028377673_5843273126868376110_n.png?dl=1",  "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56b27f85ff3037045055037e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=666&deviceId=56b27f85ff3037045055037e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false","playInNatPlayer": "true"},
+
+{"name": " BOAT",  "image": "https://www.dropbox.com/s/76yka510lv2zo0d/ooWlL9.png?dl=1",  "url": "https://vitor-theboatshow-1-eu.rakuten.wurl.com/manifest/playlist.m3u8","playInNatPlayer": "true"},
+{"name": "  ",  "image": "https://www.dropbox.com/s/h7r6hbaztokalf1/A9xPDN.png?dl=1",  "url": "https://livecdn.fptplay.net/hda/htvcdulich_2000.stream/chunklist.m3u8","playInNatPlayer": "true"},
+
+
+{"name": "",  "image": "https://www.dropbox.com/s/5ssssamm2wp7twg/jt5i7y.png?dl=1",  "url": "https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8","playInNatPlayer": "true"},
+{name:"    turbo",image:"https://www.dropbox.com/s/rjgkr6z5otuv5ve/lit2T8.png?dl=1",url:"https://telefullenvivo.com/ver-canal-discovery-turbo-en-vivo-online/",referer:""},
+
+{name:"    ID",image:"https://www.dropbox.com/s/wknv5nbcxu0xv73/litMSS.png?dl=1",url:"https://telefullenvivo.com/ver-canal-discovery-investigacion-en-vivo-online/",referer:"https://player.we-play.tv"},
+{name:"    sciencie",image:"https://www.dropbox.com/s/qn6pcuk5wzxt4pc/lx5X4f.png?dl=1",url:"https://telefullenvivo.com/ver-canal-discovery-science-en-vivo-online/",referer:"https://www.doomovie-hd.com"},
+
+
+{name:"    RT ",image:"https://www.dropbox.com/s/dilimeno0c3yp2w/RTD-TV-logo.png?dl=1",url:"https://rt-doc-gd.secure2.footprint.net/1101_1600Kb.m3u8?stream_start_offset=14000000&stream_dvr_window=4",referer:""},
+{name:"     ",image:"https://www.dropbox.com/s/uildhdfdrxd3jzr/DY2QG1.png?dl=1",url:"https://obsession-media.sinclair.wurl.com/manifest/playlist.m3u8",referer:""},
+
+
+{name:"    pursuitup ",image:"https://www.dropbox.com/s/jv7h0q6cgwy0sja/9%2BPursuitUP-1024x401.png?dl=1",url:"https://pursuitup.samsung.wurl.com/manifest/playlist.m3u8",referer:""},
+
+
+{name:"     MOTO",image:"https://images-na.ssl-images-amazon.com/images/I/41afSaAtK%2BL.jpg",url:"https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8",referer:""},
+
+{name:"    ",image:"https://www.dropbox.com/s/y3xfyps6dknuv93/DV9onI.png?dl=1",url:"http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5be1c3f9851dd5632e2c91b2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=f7034991-33bf-11eb-bb3e-5b164828c024&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=efe33e33-7d88-4efc-9008-6a4d66c45198&userId=&serverSideAds=true",referer:""},
+{name:"     Animal Live   ",image:"https://www.dropbox.com/s/y3xfyps6dknuv93/DV9onI.png?dl=1",url:"https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8",referer:""},
+{name:"     Aurora Live",image:"https://www.dropbox.com/s/y3xfyps6dknuv93/DV9onI.png?dl=1",url:"https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8",referer:""},
+{name:"     Beaches Live",image:"https://www.dropbox.com/s/y3xfyps6dknuv93/DV9onI.png?dl=1",url:"https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8",referer:""},
+{name:"     Forest Live",image:"https://www.dropbox.com/s/y3xfyps6dknuv93/DV9onI.png?dl=1",url:"https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8",referer:""},
+{name:"     Lake Live ",image:"https://www.dropbox.com/s/y3xfyps6dknuv93/DV9onI.png?dl=1",url:"https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/playlist.m3u8",referer:""},
+{name:"     Mountain Live",image:"https://www.dropbox.com/s/y3xfyps6dknuv93/DV9onI.png?dl=1",url:"https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/playlist.m3u8",referer:""},
+{name:"     Rivers Live",image:"https://www.dropbox.com/s/y3xfyps6dknuv93/DV9onI.png?dl=1",url:"https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8",referer:""},
+{name:"     Sunset Live",image:"https://www.dropbox.com/s/y3xfyps6dknuv93/DV9onI.png?dl=1",url:"https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/playlist.m3u8",referer:""},
+{name:"     Tropics Live",image:"https://www.dropbox.com/s/y3xfyps6dknuv93/DV9onI.png?dl=1",url:"https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/playlist.m3u8",referer:""},
+{name:"     Waterfalls Live",image:"https://www.dropbox.com/s/y3xfyps6dknuv93/DV9onI.png?dl=1",url:"https://95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5c953910932c837b4939735d/playlist.m3u8",referer:""},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ]
+} 
+
+{name:"      Net WILD ",image:"https://www.dropbox.com/s/guqkkl8ubnzaolg/jhdQmu.png?dl=1",url:"https://www.we-play.live/watching/tv/nat-geo-wild",referer:"https://player.we-play.tv"},
+{name:"      ",image:"https://www.dropbox.com/s/guqkkl8ubnzaolg/jhdQmu.png?dl=1",url:"https://www.doofootball.com/dootv/live/natgeowild#main_dootv",referer:"https://player.we-play.tv"},
+
+
+{name:"   explore life  ",image:"https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F9cf5341f-b7c1-475e-8644-1ccb91f0ae2a.png&w=320&h=240",url:"https://wacth.tv/tv-player/true-life.html",referer:""},
+
+{name:"          CI",image:"https://www.dropbox.com/s/lsqiftt5c20bynv/oyYMDD.png?dl=1",url:"https://bit.ly/3xEi6Mt","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "userAgent": "exoplayer_video","playInNatPlayer": "true"},
+{name:"          ",image:"https://www.dropbox.com/s/lsqiftt5c20bynv/oyYMDD.png?dl=1",url:"http://203.154.177.124:8899/live/ch23/chunks.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "userAgent": "exoplayer_video","playInNatPlayer": "true"},
+
+{name:"      สาระดี",image:"https://www.dropbox.com/s/9zumkogbsapzkr0/jh0ofb.png?dl=1",url:"http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13015&key=84797b799ae18d1b","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "userAgent": "exoplayer_video","playInNatPlayer": "true"},
+{name:"     ",image:"https://www.dropbox.com/s/9zumkogbsapzkr0/jh0ofb.png?dl=1",url:"https://www.inwiptv.com/player_demo.php?channel=9039","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "userAgent": "exoplayer_video","playInNatPlayer": "true"},
+
+
+{name:"      bbc earth ",image:"https://www.dropbox.com/s/8iw1m4yxjlcot6j/IMG_20210429_033715.png?dl=1",url:"https://www.doofree88.com/live/bbc-earth",referer:"https://www.doofree88.com/"},
+{name:"    	  ",image:"https://www.dropbox.com/s/8iw1m4yxjlcot6j/IMG_20210429_033715.png?dl=1",url:"https://siamtv88.co/index.php?a=live_details&channel_code=sd-bbcearth",referer:"https://siamtv88.co"},
+
+
+{name:"    ",image:"https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F76f8506f-b775-4a6f-ba79-752ecb8ee516.png&w=320&h=240",url:"http://gg.gg/true-explore-sci",referer:"https://www.doomovie-hd.com"},
+{name:"  true-lif   ",image:"https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F9cf5341f-b7c1-475e-8644-1ccb91f0ae2a.png&w=320&h=240",url:"http://gg.gg/true-life",referer:""},
+
+
+{"name":"    TRUE WILD","image":"https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F4c6e4330-9408-4280-8b5d-7d3b37305ce0.png&w=320&h=240","url":"https://tv.trueid.net/embed/true-explore-wild?autoplay=yes&nopageview=yes","userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+
+{"name":"PULSE","image":"https://www.234.in.th/images/2021/01/27/141439006_319237512824213_1832291682690853722_n.png","url":"http://203.154.177.124:8899/live/ch18/chunks.m3u8","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36", "userAgent": "exoplayer_video","playInNatPlayer": "true"},
+{"name": "dmax",  "image": "https://sv1.picz.in.th/images/2021/01/26/lXgVNR.png",  "url": "http://160.119.77.117/iptv/uk-dmax.stream/chunks.m3u8","playInNatPlayer": "true"},
+{name:"     dog tv   ",image:"https://sv1.picz.in.th/images/2021/02/21/oDruxQ.png",url:"https://playback2.akamaized.net/streams/29590904_9415369_lsi9n7pn0jmnijfjovu_1/exp=1619725629~acl=%2f*~data=hdntl~hmac=94bc3939af2ff3dcc6d2ab217fdb78077ededd2a3ddde07e96d783028830d3d3/media/29590904_9415369_lsi9n7pn0jmnijfjovu_1@5256000p.m3u8?dw=14400&ts=1619636400","playInNatPlayer": "true"},
+
+{name:"    turbo",image:"https://sv1.picz.in.th/images/2021/01/12/lit2T8.png",url:"http://160.119.77.116:8081/iptv/uk-discoveryturbo.stream/playlist.m3u8",referer:""},
+
+{name:"nat mundo",image:"https://sv1.picz.in.th/images/2021/01/14/lxEg9D.png",url:"http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/598",referer:"https://dooball66.com"},
+
+{name:"   dog tv    FHD",image:"https://sv1.picz.in.th/images/2021/02/21/oDruxQ.png",url:"https://photocall.tv/f8Wd/ls?ch=dogtv",referer:"https://photocall.tv/"},
+
+{name:"     ",image:"https://sv1.picz.in.th/images/2021/03/28/DV9onI.png",url:"http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5be1c3f9851dd5632e2c91b2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=f7034991-33bf-11eb-bb3e-5b164828c024&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=efe33e33-7d88-4efc-9008-6a4d66c45198&userId=&serverSideAds=true",referer:""}
+
+{name:" sci    ",image:"https://sv1.picz.in.th/images/2021/01/14/lx5X4f.png",url:"http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/770",referer:"https://www.doomovie-hd.com"},
+
+
+
+
+{name:"        H2",image:"https://sv1.picz.in.th/images/2020/11/30/jhW8WR.png",url:"https://embed-dev.blackboxsys.net/player.php?channel=hd-history2&api_key=hmcb4rf66f&ref=none",referer:"https://dooball66.com"},
+{name:"",image:"https://sv1.picz.in.th/images/2020/11/30/jhW8WR.png",url:"https://www.doomovie-hd.com/?r=tv_view&id=58","playInNatPlayer": "true"},
+
+{name:"auto moto",image:"https://scontent.xx.fbcdn.net/v/t1.15752-0/p206x206/152910301_873353110152602_4655338832720070017_n.png?_nc_cat=106&ccb=3&_nc_sid=58c789&_nc_eui2=AeH_neDW8RwxPXaYNXuD3gT1Z98dMVUMGcdn3x0xVQwZxw2C2yAzo52LsV9l0acGuCBqGT7_m_Nbiap3byAmNbIe&_nc_ohc=XuKjEl7-tdMAX-i3ywt&_nc_oc=AQmdCqwK46QEfT8oTVsI82h471O_Xk6vnDAnhzF0XtuvaX0LhYmLGtmuLIs_wsptBFWPzZCZpV3NyvSdtC8Jniom&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=30&oh=411b832bd5c75a45788fc461434c76cd&oe=605EED89",url:"http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f760c3d41aa2d0007bfde19/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=f70bd512-33bf-11eb-bb3e-5b164828c024&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1e11e470-22c5-4ff2-b01a-e364e51a1f4c&userId=&serverSideAds=true",referer:"https://player.we-play.tv"},
+
+
+
+{name:"     ",image:"",url:"",referer:""},
+
+
+2904
+
+
+

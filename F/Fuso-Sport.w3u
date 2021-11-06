@@ -1,0 +1,747 @@
+{
+"name": "่SPORT ", 
+"author": "Fuso",
+"image": "https://drive.google.com/uc?id=1lkbevCNQa5oAbdxU5i0AYodBEDT6SuJC",
+"groups": [
+
+{
+"name": "่ช่องกีฬา ",
+"author": "ช่างต่อ",
+"image": "https://drive.google.com/uc?id=1lkbevCNQa5oAbdxU5i0AYodBEDT6SuJC",
+"stations":  [
+{
+"name": "",
+"image": "https://doo2you.com/icon/TruePremierFootballHD1.png",
+"url": "https://www.doofree88.com/live/premier-football-hd-1",
+"referer": "https://www.doofootball.com/",
+"info": "Premier Football HD 1"
+},
+{ 
+"name": "", 
+"image": "https://doo2you.com/icon/TruePremierFootballHD1.png", 
+"url": "https://cloudserver.server-cdn-streaming.com/live-player/14/live.m3u8", 
+"referer": "https://ball8k.com/",
+"info": "Premier HD1 (1)"
+},
+{
+"name": "",
+"image": "https://doo2you.com/icon/TruePremierFootballHD2.png",
+"url": "https://www.doofree88.com/live/premier-football-hd-2",
+"referer": "https://www.doofootball.com/",
+"info": "Premier Football HD 2"
+},
+{ 
+"name": "", 
+"image": "https://doo2you.com/icon/TruePremierFootballHD2.png", 
+"url": "https://cloudserver.server-cdn-streaming.com/live-player/15/live.m3u8", 
+"referer": "https://ball8k.com/",
+"info": "Premier Football HD 2(1)"
+},
+{
+"name": "",
+"image": "https://doo2you.com/icon/TruePremierFootballHD3.png",
+"url": "https://www.doofree88.com/live/premier-football-hd-3",
+"referer": "https://www.doofree88.com/",
+"info": "Premier Football HD 3"
+},
+{ 
+"name": "", 
+"image": "https://doo2you.com/icon/TruePremierFootballHD3.png", 
+"url": "https://cloudserver.server-cdn-streaming.com/live-player/16/live.m3u8", 
+"referer": "https://ball8k.com/",
+"info": "Premier Football HD 3(1)"
+},
+{
+"name": "",
+"image": "https://doo2you.com/icon/TruePremierFootballHD4.png",
+"url": "https://www.doofree88.com/live/premier-football-hd-4",
+"referer": "https://www.doofootball.com/",
+"info": "Premier Football HD 4"
+},
+{ 
+"name": "", 
+"image": "https://doo2you.com/icon/TruePremierFootballHD4.png", 
+"url": "https://cloudserver.server-cdn-streaming.com/live-player/17/live.m3u8", 
+"referer": "https://ball8k.com/",
+"info": "Premier Football HD 4(1)"
+},
+{
+"name": "",
+"image": "https://doo2you.com/icon/TruePremierFootballHD5.png",
+"url": "https://cloudserver.server-cdn-streaming.com/live-player/18/live.m3u8", 
+"referer": "https://ball8k.com/",
+"info": "Premier Football HD 5"
+},
+{
+"name": "",
+"image": "https://doo2you.com/icon/TruePremierFootballHD5.png",
+"url": "https://www.doofree88.com/live/premier-football-hd-5",
+"referer": "https://www.doofootball.com/",
+"info": "Premier Football HD 5"
+},
+{ 
+"name": "", 
+"image": "https://doo2you.com/icon/beinsporthd1.png", 
+"url": "https://cloudserver.server-cdn-streaming.com/live-player/2/live.m3u8", 
+"referer": "https://ball8k.com/",
+"info": "BEIN Sport 1"
+},
+{ 
+"name": "", 
+"image": "https://doo2you.com/icon/beinsporthd2.png", 
+"url": "https://cloudserver.server-cdn-streaming.com/live-player/6/live.m3u8", 
+"referer": "https://ball8k.com/",
+"info": "BEIN Sport 2"
+},
+{
+"name": "",
+"image": "https://doo2you.com/icon/2sporthd1.png",
+"url": "https://www.doofree88.com/live/sport-hd-1",
+"referer": "https://www.doofootball.com/",
+"info": "True Sport HD 1"
+},
+{
+"name": "",
+"image": "https://doo2you.com/icon/2sporthd2.png",
+"url": "https://www.doofree88.com/live/sport-hd-2",
+"referer": "https://www.doofootball.com/",
+"info": "True Sport HD 2"
+},
+{
+"name": "",
+"image": "https://doo2you.com/icon/2sporthd3.png",
+"url": "https://www.doofree88.com/live/sport-hd-3",
+"userAgent": "exoplayer_video",
+"info": "True Sport HD 3"
+},
+{
+"name": "",
+"image": "https://doo2you.com/icon/2sporthd4.png",
+"url": "https://www.doofree88.com/live/sport-hd-4",
+"referer": "https://www.doofootball.com/",
+"info": "True Sport HD 4"
+},
+{
+"name": "",
+"image": "https://doo2you.com/icon/TrueSport5.png",
+"url": "https://www.doofree88.com/live/sport-5",
+"referer": "https://www.doofootball.com/",
+"info": "True Sport 5"
+},
+{
+"name": "",
+"image": "https://doo2you.com/icon/TrueSport7.png",
+"url": "https://www.doofree88.com/live/sport-7",
+"referer": "https://www.doofootball.com/",
+"info": "True Sport 7"
+},
+{ 
+"name": "SPORTS TV 1 ", 
+"image": "https://doo2you.com/icon/SPORTTV1.png", 
+"url": "https://cloudserver.server-cdn-streaming.com/live-player/19/live.m3u8", 
+"referer": "https://ball8k.com/",
+"playInNatPlayer": "true" 
+},
+{ 
+"name": "SPORTS TV 2", 
+"image": "https://doo2you.com/icon/SPORTTV2.png", 
+"url": "https://cloudserver.server-cdn-streaming.com/live-player/20/live.m3u8",
+"playInNatPlayer": "true" 
+},
+{ 
+"name": "SPORTS TV 3", 
+"image": "https://doo2you.com/icon/SPORTTV3.png", 
+"url": "https://cloudserver.server-cdn-streaming.com/live-player/21/live.m3u8",
+"playInNatPlayer": "true" 
+},
+{ 
+"name": "SPORTS TV 4 ", 
+"image": "https://doo2you.com/icon/SPORTTV4.png", 
+"url": "https://cloudserver.server-cdn-streaming.com/live-player/22/live.m3u8", 
+"playInNatPlayer": "true" 
+},
+{ 
+"name": "SPORTS TV 5 ", 
+"image": "https://doo2you.com/icon/SPORTTV5.png", 
+"url": "https://cloudserver.server-cdn-streaming.com/live-player/23/live.m3u8",
+"playInNatPlayer": "true" 
+},
+{
+"name": "",
+"image": "https://doo2you.com/icon/SkySportsEpl.png",
+"url": "https://www.doofree88.com/live/sky-sports-premier-league",
+"userAgent": "exoplayer_video",
+"info": "Sky Sports Premier League"
+},
+{
+"name": "",
+"image": "https://doo2you.com/icon/SkySportsArena.png",
+"url": "https://www.doofree88.com/live/sky-sports-arena",
+"userAgent": "exoplayer_video",
+"info": "Sky Sports arena"
+},
+{
+"name": "",
+"image": "https://doo2you.com/icon/SkySportsMix.png",
+"url": "https://www.doofree88.com/live/sky-sports-mix",
+"userAgent": "exoplayer_video",
+"info": "sports-mix"
+},
+{
+"name": "",
+"image": "https://doo2you.com/icon/SkySportsFootball.png",
+"url": "https://www.doofree88.com/live/sky-sports-football",
+"userAgent": "exoplayer_video",
+"info": "Sky Sports Football"
+},
+{
+"name": "",
+"image": "https://doo2you.com/icon/SkySportsF1.png",
+"url": "https://www.doofree88.com/live/sky-sports-f1",
+"userAgent": "exoplayer_video",
+"info": "Sky Sports F1"
+},
+{
+"name": "",
+"image": "https://doo2you.com/icon/TrueSportTennis.png",
+"url": "https://www.doofree88.com/live/tennis-hd",
+"userAgent": "exoplayer_video",
+"info": "Tennis HD"
+},
+{
+"name": "",
+"image": "https://doo2you.com/icon/NBAPremiumTVHD.png",
+"url": "https://www.doofree88.com/live/nba-tv",
+"userAgent": "exoplayer_video",
+"info": "NBA TV"
+},
+{ 
+"name": "BT Sport 1", 
+"image": "https://tv.xtemus.com/images/ch-btsport1.png", 
+"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2k574l4k494h4n264f4h434b4q5j5e4i4i5j4h4a4d413j5r4s4j4n4l4z5x2", "playInNatPlayer": "true" 
+},
+{ 
+"name": "BT Sport 2", 
+"image": "https://tv.xtemus.com/images/ch-btsport2.png", 
+"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2k574l4k494h4n264f4h434b4q5j5e4i4i5j4h4a4d413j5r4s4j4n4l4z5y2", "playInNatPlayer": "true" 
+},
+{ 
+"name": "BT Sport 3", 
+"image": "https://tv.xtemus.com/images/ch-btsport3.png", 
+"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2k574l4k494h4n264f4h434b4q5j5e4i4i5j4h4a4d413j5r4s4j4n4l4z5z2", "playInNatPlayer": "true" 
+},
+{ 
+"name": "BT Sport ESPN", 
+"image": "https://tv.xtemus.com/images/ch-btsportespn.png", 
+"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u2k574l4k494h4n264f4h434b4q5j5e4i4i5j4h4a4d413j5r4s4j4n4l4z5d4l4y5s5",
+"playInNatPlayer": "true" 
+},
+{ 
+"name": "LFC TV", 
+"image": "https://tv.xtemus.com/images/ch-lfctv.png", 
+"url": "https://ball8k.com/channel?ch=lfctv",
+"referer": "https://ball8k.com/",
+"playInNatPlayer": "true" 
+},
+{ 
+"name": "MU TV", 
+"image": "https://tv.xtemus.com/images/ch-mutv.png", 
+"url": "https://ball8k.com/channel?ch=mutv", 
+"referer": "https://ball8k.com/",
+"playInNatPlayer": "true" 
+},
+{ 
+"name": "Red Bull TV", 
+"image": "https://tv.xtemus.com/images/ch-redbulltv.png", 
+"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u20684m4m4y3i4a4p454q2h5j4j5v514d436c4i5t2j45416u2h4f4r4q2r5h4o4n51464033413x2z2u2o4l4v3e3y3b3p3q2d454z5s4n506z3v2441324t2i4r22633", 
+"playInNatPlayer": "true" 
+},
+{ 
+"name": "Red Bull TV", 
+"image": "https://tv.xtemus.com/images/ch-redbulltv.png", 
+"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v523q2u2u456t4v2c4i574d4i4f48424b4x5v5n2q4m5b4j5m4s2s284w2", "playInNatPlayer": "true" 
+},
+{ 
+"name": "Cycle World", 
+"image": "https://tv.xtemus.com/images/ch-cycleworld.png", 
+"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v523q2u2u456t4v2c4i574d4i4f48424b4x5v5n2q4m5b4j5m4s2v2d4z2", 
+"playInNatPlayer": "true" 
+},
+{ 
+"name": "Sky Thoroughbred Central", 
+"image": "https://tv.xtemus.com/images/ch-skytc.png", 
+"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u216h4y4k4m5s464m4b4t414h444j5b454q584n5f494m2v5c4t4q2g4f4y5v2e4r506i5q284y203233364t2s4j426i4a4p454r2z5s4l5164434i5v4y5p4a4d4m5b323x253y2b4w2o2v554y5z2", 
+"playInNatPlayer": "true" 
+},
+{ 
+"name": "Sky Racing 1", 
+"image": "https://tv.xtemus.com/images/ch-skyracing.png", 
+"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u216h4y4k4m5s464m4b4t414h444j5b454q584n5f494m2v5c4t4q2g4f4y5v2e4r506i5q284y203233364t2s4j426i4a4p454r2z5j47674z39416r4w5c4i454l403330333z234u2f494z594", 
+"playInNatPlayer": "true" 
+},
+{ 
+"name": "Sky Racing 2", "image": 
+"https://tv.xtemus.com/images/ch-skyracing.png", 
+"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u216h4y4k4m5s464m4b4t414h444j5b454q584n5f494m2v5c4t4q2g4f4y5v2e4r506i5q284y203233364t2s4j426i4a4p454r2z5j47684z39416r4w5c4i454l403330333z234u2f494z594", 
+"playInNatPlayer": "true" 
+},
+{ 
+"name": "SEC ESPN Network", 
+"image": "https://tv.xtemus.com/images/ch-secespnnetwork.png", 
+"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v523q2u2u456t4v2c4i574d4i4f48424b4x5v5n2q4m5b4j5m4s2t274v2",
+"playInNatPlayer": "true"
+},
+{ 
+"name": "ESPN", 
+"image": "https://tv.xtemus.com/images/ch-espn.png", 
+"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v523q2u2u456t4v2c4i574d4i4f48424b4x5v5n2q4m5b4j5m4s2t2b4y2", 
+"playInNatPlayer": "true" 
+},
+{ 
+"name": "Stadium TV", 
+"image": "https://tv.xtemus.com/images/ch-stadiumtv.png", 
+"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v523q2u2u456t4v2c4i574d4i4f48424b4x5v5n2q4m5b4j5m4s2t2b433", 
+"playInNatPlayer": "true" 
+},
+{
+"name": "",
+"image": "https://we-play.live/uploads/posters/spotv-poster.jpg",
+"url": "https://cloudserver.server-cdn-streaming.com/live-player/11/live.m3u8",
+"referer": "https://www.doomovie-hd.com/",
+"info": "True SpoTV1"
+},
+{
+"name": "",
+"image": "https://we-play.live/uploads/posters/spotv2-poster.jpg",
+"url": "https://cloudserver.server-cdn-streaming.com/live-player/13/live.m3u8",
+"referer": "https://www.doomovie-hd.com/",
+"info": "True SpoTV2"
+},
+{
+"name": "",
+"image": "https://ball8k.co/ball8k/stream/img_ch/20210620113423_astrosupersport.png",
+"url": "https://ball8k.com/channel?ch=astrosupersport", 
+"referer": "https://ball8k.com/",
+"info": "Astro Supersport 1"
+},
+{
+"name": "",
+"image": "https://ball8k.co/ball8k/stream/img_ch/20210620113435_astrosupersport2.png",
+"url": "https://ball8k.com/channel?ch=astrosupersport2", 
+"referer": "https://ball8k.com/",
+"info": "Astro Supersport 2"
+},
+{
+"name": "",
+"image": "https://ball8k.co/ball8k/stream/img_ch/20210620113524_astrosupersport3.png",
+"url": "https://ball8k.com/channel?ch=astrosupersport3", 
+"referer": "https://ball8k.com/",
+"info": "Astro Supersport 3"
+},
+{
+"name": "",
+"image": "https://ball8k.co/ball8k/stream/img_ch/20210620113533_astrosupersport4.png",
+"url": "https://ball8k.com/channel?ch=astrosupersport4", 
+"referer": "https://ball8k.com/",
+"info": "Astro Supersport 4"
+},
+{
+"name": "", 
+"image": "https://ball8k.co/ball8k/stream/img_ch/20210222210902_foxsports1usa.jpg", 
+"url": "https://ball8k.com/channel?ch=foxsports1usa", 
+"referer": "https://ball8k.com/",
+"info": "Fox Sports 1"
+},
+{ 
+"name": "", 
+"image": "https://ball8k.co/ball8k/stream/img_ch/20210222210911_foxsports2usa.jpg", 
+"url": "https://ball8k.com/channel?ch=foxsports2usa", 
+"referer": "https://ball8k.com/",
+"info": "Fox Sports 2"
+},
+{ 
+"name": "", 
+"image": "https://ball8k.co/ball8k/stream/img_ch/20210222200404_foxsport1nl.jpg", 
+"url": "https://ball8k.com/channel?ch=foxsport1nl", 
+"referer": "https://ball8k.com/",
+"info": "Fox Sports 1"
+},
+{ 
+"name": "", 
+"image": "https://ball8k.co/ball8k/stream/img_ch/20210222210606_foxsport2nl.jpg", 
+"url": "https://ball8k.com/channel?ch=foxsport2nl", 
+"referer": "https://ball8k.com/",
+"info": "Fox Sports 2"
+},
+{ 
+"name": "", 
+"image": "https://ball8k.co/ball8k/stream/img_ch/20210222210614_foxsport3nl.jpg", 
+"url": "https://ball8k.com/channel?ch=foxsport3nl", 
+"referer": "https://ball8k.com/",
+"info": "Fox Sports 3"
+},
+{ 
+"name": "", 
+"image": "https://ball8k.co/ball8k/stream/img_ch/20210222210623_foxsport4nl.jpg", 
+"url": "https://ball8k.com/channel?ch=foxsport4nl", 
+"referer": "https://ball8k.com/",
+"info": "Fox Sports 4"
+},
+{ 
+"name": "", 
+"image": "https://ball8k.co/ball8k/stream/img_ch/20210222210632_foxsport5nl.jpg", 
+"url": "https://ball8k.com/channel?ch=foxsport5nl", 
+"referer": "https://ball8k.com/",
+"info": "Fox Sports 5"
+},
+{ 
+"name": "", 
+"image": "https://ball8k.co/ball8k/stream/img_ch/20210222210632_foxsport5nl.jpg", 
+"url": "https://ball8k.com/channel?ch=foxsport5nl", 
+"referer": "https://ball8k.com/",
+"info": "Fox Sports 6"
+},
+{ 
+"name": "", 
+"image": "https://tv.xtemus.com/images/ch-arenasport1.png", 
+"url": "https://ball8k.com/channel?ch=arenasport1serbia", 
+"referer": "https://ball8k.com/",
+"info": "Arena Sport 1"
+},
+{ 
+"name": "", 
+"image": "https://tv.xtemus.com/images/ch-arenasport2.png", 
+"url": "https://ball8k.com/channel?ch=arenasport2serbia", 
+"referer": "https://ball8k.com/",
+"info": "Arena Sport 2"
+},
+{ 
+"name": "", 
+"image": "https://tv.xtemus.com/images/ch-arenasport3.png", 
+"url": "https://ball8k.com/channel?ch=arenasport3serbia", 
+"referer": "https://ball8k.com/",
+"info": "Arena Sport 3"
+},
+{ 
+"name": "", 
+"image": "https://tv.xtemus.com/images/ch-arenasport4.png", 
+"url": "https://ball8k.com/channel?ch=arenasport4serbia", 
+"referer": "https://ball8k.com/",
+"info": "Arena Sport 4"
+},
+{ 
+"name": " ", 
+"image": "https://ball8k.co/ball8k/stream/img_ch/20210222183409_novasport.jpg", 
+"url": "https://ball8k.com/channel?ch=novasport", 
+"referer": "https://ball8k.com/",
+"info": "NovaSport"
+},
+
+{
+"name":"True Gamingup",
+"image":"https://cms.dmpcdn.com/livetv/2021/09/28/3d92d760-200d-11ec-9629-7dc4459cd94d_webp_320.png",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=hd-gamingup&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+"desktop": "true"
+},
+{ 
+"name": "Racing.com", 
+"image": "https://tv.xtemus.com/images/ch-racingcom.png", 
+"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v523q2u2u456t4v2c4i574d4i4f48424b4x5v5n2q4m5b4j5m4s2u27423", 
+"playInNatPlayer": "true" 
+},
+{
+"name": "",
+"image": "https://doo2you.com/icon/SkySportsGolf.png",
+"url": "http://primestreams.tv:826/live/takuachenvidia@gmail.com/wBevDzfqb5/98779.m3u8",
+"referer": "",
+"info": "Sky Sports Golf"
+},
+{
+"name": "",
+"image": "https://doo2you.com/icon/GolfChannel.png",
+"url": "https://www.doofree88.com/live/golf-channel-thailand",
+"referer": "https://www.doofree88.com/",
+"info": "Golf Channel Thailand"
+},
+{
+"name":" ",
+"image": "https://doo2you.com/icon/GolfChannel.png",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-golf2&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+"info": "Golf Channel Thailand HD2"
+},
+{
+"name": "",
+"image": "https://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-200px.png",
+"url": "http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8",
+"referer": "",
+"info": "       ONEGOLF"
+},
+{
+"name": "",
+"image": "https://overseer.blackboxsys.net/images/png/us-nbcgolf.png",
+"url": "http://50.7.161.82:8278/streams/d/astrogolf_pye/playlist.m3u8",
+"referer": "",
+"info": "      NBC Golf"
+},
+{
+"name": "",
+"image": "https://overseer.blackboxsys.net/images/png/hd-nfl.png",
+"url": "https://www.doofree88.com/live/nfl-tv",
+"userAgent": "exoplayer_video",
+"info": "NFL TV"
+},
+{
+"name": "",
+"image": "https://overseer.blackboxsys.net/images/png/uk-eurosport.png",
+"url": "https://www.doofree88.com/live/eurosport",
+"userAgent": "exoplayer_video",
+"info": "Eurosport"
+},
+{
+"name": "",
+"image": "https://overseer.blackboxsys.net/images/png/uk-eurosport2.png",
+"url": "https://www.doofree88.com/live/eurosport-2",
+"userAgent": "exoplayer_video",
+"info": "Eurosport 2"
+},
+{
+"name": "",
+"image": "https://overseer.blackboxsys.net/images/png/sd-tsports.png",
+"url": "https://www.doofree88.com/live/t-sports",
+"userAgent": "exoplayer_video",
+"info": "T Sports"
+},
+{
+"name": "วัวชน1",
+"image":"https://drive.google.com/uc?id=10D3MN5nlvvD6RAdN3YfDOhjUAkWjnFW7",
+"url":  "https://freelive.inwstream.com:1936/freelive-edge/the_battle.stream/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+]
+},
+{
+"name": "       ไทยลีก1",
+"author": "Fuso",
+"image": "https://www.gmm25.com/2016/upload_2020/images/digital%20team/%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%A5%E0%B8%B5%E0%B8%812.jpg",
+"stations" : [
+{
+"name": "AIS PLAY",
+"image": "https://drive.google.com/uc?id=1oAGeEup9ahiFo-aIvY4d3_5B4tsFFD44",
+"url": "https://www.ais.th/play/football/?p=live",
+"referer":"https://www.ais.th/play/",
+"embed": "true",playInNatPlayer: "true"
+},
+{  
+    "name": "AIS PLAY STADIUM 1",
+    "image":   "https://drive.google.com/uc?id=1oAGeEup9ahiFo-aIvY4d3_5B4tsFFD44" ,
+    "url": "https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL001/HLS/TL001.m3u8",
+    "referer": "https://olympic-embed.ais-vidnt.com/",
+    "playInNatPlayer": "true"    
+},
+{
+    "name": "AIS PLAY STADIUM 2",
+    "image":   "https://drive.google.com/uc?id=1oAGeEup9ahiFo-aIvY4d3_5B4tsFFD44" ,
+    "url": "https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL002/HLS/TL002.m3u8",
+    "referer": "https://olympic-embed.ais-vidnt.com/",
+    "playInNatPlayer": "true" 
+},
+{
+    "name": "AIS PLAY STADIUM 3",
+    "image":   "https://drive.google.com/uc?id=1oAGeEup9ahiFo-aIvY4d3_5B4tsFFD44" ,
+    "url": "https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL003/HLS/TL003.m3u8",
+    "referer": "https://olympic-embed.ais-vidnt.com/",
+    "playInNatPlayer": "true"
+},
+{
+    "name": "AIS PLAY STADIUM 4",
+    "image":   "https://drive.google.com/uc?id=1oAGeEup9ahiFo-aIvY4d3_5B4tsFFD44" ,
+    "url": "https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL004/HLS/TL004.m3u8",
+    "referer": "https://olympic-embed.ais-vidnt.com/",
+    "playInNatPlayer": "true"
+},
+{
+    "name": "AIS PLAY STADIUM 5",
+    "image":   "https://drive.google.com/uc?id=1oAGeEup9ahiFo-aIvY4d3_5B4tsFFD44" ,
+    "url": "https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL005/HLS/TL005.m3u8",
+    "referer": "https://olympic-embed.ais-vidnt.com/",
+    "playInNatPlayer": "true"
+},
+{
+    "name": "AIS PLAY STADIUM 6",
+    "image":   "https://drive.google.com/uc?id=1oAGeEup9ahiFo-aIvY4d3_5B4tsFFD44" ,
+    "url": "https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL006/HLS/TL006.m3u8",
+    "referer": "https://olympic-embed.ais-vidnt.com/",
+    "playInNatPlayer": "true"    
+},
+{
+    "name": "AIS PLAY STADIUM 7",
+    "image":   "https://drive.google.com/uc?id=1oAGeEup9ahiFo-aIvY4d3_5B4tsFFD44" ,
+    "url": "https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL007/HLS/TL007.m3u8",
+    "referer": "https://olympic-embed.ais-vidnt.com/",
+    "playInNatPlayer": "true"    
+},
+{
+    "name": "AIS PLAY STADIUM 8",
+    "image":   "https://drive.google.com/uc?id=1oAGeEup9ahiFo-aIvY4d3_5B4tsFFD44" ,
+    "url": "https://49-231-36-188-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL008/HLS/TL008.m3u8",
+    "referer": "https://olympic-embed.ais-vidnt.com/",
+    "playInNatPlayer": "true"  
+
+},
+]
+},
+]
+}
+{ 
+"name": "",
+"image": "https://ball8k.co/ball8k/stream/img_ch/20210720145545_baygonhero1.png",
+"url": "https://ball8k.com/channel?ch=baygonhero1", 
+"referer": "https://ball8k.com/",
+"info": "baygonhero1"
+},
+{
+"name": "",
+"image": "https://ball8k.co/ball8k/stream/img_ch/20210915164628_baygonhero9.png",
+"url": "https://ball8k.com/channel?ch=baygonhero9", 
+"referer": "https://ball8k.com/",
+"info": "baygonhero9"
+},
+{
+"name": "",
+"image": "https://ball8k.co/ball8k/stream/img_ch/20210915164548_baygonhero7.png",
+"url": "https://ball8k.com/channel?ch=baygonhero7", 
+"referer": "https://ball8k.com/",
+"info": "baygonhero7"
+},
+{
+"name": "AIS PLAY STADIUM 1",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_STADIUM.png",
+"url": "https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL101/HLS/TL101-mp4a_64000_tha=2.m3u8",
+"referer":"https://olympic-embed.ais-vidnt.com/",
+"playInNatPlayer":"aisplay"
+},
+{
+"name": "AIS PLAY STADIUM 2",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_STADIUM.png",
+"url": "https://49-231-37-229-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL102/HLS/TL102.m3u8",
+"referer":"https://olympic-embed.ais-vidnt.com/",
+"playInNatPlayer":"aisplay"
+},
+{
+"name": "AIS PLAY STADIUM 3",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_STADIUM.png",
+"url": "https://49-231-37-229-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL103/HLS/TL103-avc1_3000000=5.m3u8",
+"referer":"https://olympic-embed.ais-vidnt.com/",
+"playInNatPlayer":"aisplay"
+},
+{
+"name": "AIS PLAY STADIUM 4",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_STADIUM.png",
+"url": "https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL104/HLS/TL104.m3u8",
+"referer":"https://olympic-embed.ais-vidnt.com/",
+"playInNatPlayer":"aisplay"
+},
+{
+"name": "AIS PLAY STADIUM 5",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_STADIUM.png",
+"url": "https://49-231-37-229-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL105/HLS/TL105.m3u8",
+"referer":"https://olympic-embed.ais-vidnt.com/",
+"playInNatPlayer":"aisplay"
+},
+{
+"name": "AIS PLAY STADIUM 6",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_STADIUM.png",
+"url": "https://49-231-37-229-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL106/HLS/TL106.m3u8",
+"referer":"https://olympic-embed.ais-vidnt.com/",
+"playInNatPlayer":"aisplay"
+},
+{
+"name": "AIS PLAY STADIUM 7",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_STADIUM.png",
+"url": "https://49-231-37-229-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL107/HLS/TL107.m3u8",
+"referer":"https://olympic-embed.ais-vidnt.com/",
+"playInNatPlayer":"aisplay"
+},
+{
+"name": "AIS PLAY STADIUM 8",
+"image": "1WUHKDcQWUBzZtdqVeUkDt2PXvF_MvzxR",
+"url": "https://49-231-37-229-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL108/HLS/TL108.m3u8",
+"referer":"https://olympic-embed.ais-vidnt.com/",
+"playInNatPlayer":"aisplay"
+},
+{
+"name":"True Premier Football HD 1",
+"image":"https://overseer.blackboxsys.net/images/png/gd-epl1.png",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=gd-epl1&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+"desktop": "true"
+},
+{
+"name":"True Premier Football HD 2",
+"image":"https://overseer.blackboxsys.net/images/png/gd-epl2.png",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=gd-epl2&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+"desktop": "true"
+},
+{
+"name":"True Premier Football HD 3",
+"image":"https://overseer.blackboxsys.net/images/png/gd-epl3.png",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=gd-epl3&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+"desktop": "true"
+},
+{
+"name":"True Premier Football HD 4",
+"image":"https://overseer.blackboxsys.net/images/png/gd-epl4.png",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=gd-epl4&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+"desktop": "true"
+},
+{
+"name":"True Premier Football HD 5",
+"image":"https://overseer.blackboxsys.net/images/png/gd-epl5.png",
+"url":"https://embed-dev.blackboxsys.net/player.php?channel=gd-epl5&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+"desktop": "true"
+},
+{
+"name": " TrueSport hd1",
+"image": "https://overseer.blackboxsys.net/images/png/gd-tsporthd1.png",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=gd-tsporthd1&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+"desktop": "true"
+},
+{
+"name": " TrueSport hd2",
+"image": "https://overseer.blackboxsys.net/images/png/gd-tsporthd2.png",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=gd-tsporthd2&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+"desktop": "true"
+},
+{
+"name": " TrueSport hd3",
+"image": "https://overseer.blackboxsys.net/images/png/gd-tsporthd3.png",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=gd-tsporthd3&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+"desktop": "true"
+},
+{
+"name": " TrueSport hd4",
+"image": "https://overseer.blackboxsys.net/images/png/gd-tsporthd4.png",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=gd-tsporthd4&api_key=hmcb4rf66f",
+"referer": "https://dooball66.com",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+"desktop": "true"
+},

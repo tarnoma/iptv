@@ -1,0 +1,78 @@
+{
+"name": "       ไทยลีก",
+"author": "Playlist Developers",
+"image": "https://www.dropbox.com/s/h5fj0m40c3p3a4q/PicsArt_04-21-04.10.40.png?dl=1",
+	  "url": "",
+"stations" : [
+{
+"name": "AIS PLAY",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/VOD/Poster/94823702.backdrop.original.jpg",
+"url": "https://www.ais.th/play/football/?p=live",
+"referer":"https://www.ais.th/play/",
+"embed": "true",playInNatPlayer: "true"
+},
+{
+"name": "AIS PLAY STADIUM 1",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_STADIUM.png",
+"url": "https://ball8k.com/channel?ch=baygonhero1",
+"referer": "https://ball8k.com/",
+"info": "aisplay"
+},
+{
+"name": "AIS PLAY STADIUM 2",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_STADIUM.png",
+"url": "https://ball8k.com/channel?ch=baygonhero2",
+"referer": "https://ball8k.com/",
+"info": "aisplay"
+},
+{
+"name": "AIS PLAY STADIUM 3",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_STADIUM.png",
+"url": "https://ball8k.com/channel?ch=baygonhero3",
+"referer": "https://ball8k.com/",
+"info": "aisplay"
+},
+{
+"name": "AIS PLAY STADIUM 4",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_STADIUM.png",
+"url": "https://ball8k.com/channel?ch=baygonhero4",
+"referer": "https://ball8k.com/",
+"info": "aisplay"
+},
+{
+"name": "AIS PLAY STADIUM 5",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_STADIUM.png",
+"url": "https://49-231-37-229-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL105/HLS/TL105.m3u8",
+"referer":"https://olympic-embed.ais-vidnt.com/",
+"playInNatPlayer":"aisplay"
+},
+{
+"name": "AIS PLAY STADIUM 6",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_STADIUM.png",
+"url": "https://ball8k.com/channel?ch=baygonhero6",
+"referer":"https://olympic-embed.ais-vidnt.com/",
+"playInNatPlayer":"aisplay"
+},
+{
+"name": "AIS PLAY STADIUM 7",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_STADIUM.png",
+"url": "https://ball8k.com/channel?ch=baygonhero7",
+"referer":"https://olympic-embed.ais-vidnt.com/",
+"playInNatPlayer":"aisplay"
+},
+{
+"name": "AIS PLAY STADIUM 8",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_STADIUM.png",
+"url": "https://ball8k.com/channel?ch=baygonhero8",
+"referer":"https://olympic-embed.ais-vidnt.com/",
+"playInNatPlayer":"aisplay"
+},
+{
+"name": "AIS PLAY STADIUM 9",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_STADIUM.png",
+"url": "https://ball8k.com/channel?ch=baygonhero9",
+"referer":"https://olympic-embed.ais-vidnt.com/",
+"playInNatPlayer":"aisplay"
+},
+]
+}

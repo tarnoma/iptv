@@ -1,0 +1,185 @@
+{
+"name": " ทีวีดิจิตอล",
+"author": "Fuso",
+"image": "https://drive.google.com/uc?id=1lkbevCNQa5oAbdxU5i0AYodBEDT6SuJC",
+"stations":  [
+{
+"name": "ททบ.5 ",
+"image": "https://tv.xtemus.com/images/ch-5.png",
+"url": "http://host4.dynns.com/stream/1d92193b11fe490b8c67d0a88bee3fd6.m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "NBT ",
+"image": "https://tv.xtemus.com/images/ch-11.png",
+"url": "http://host4.dynns.com/stream/ce9a1585f45d4379970b95308df3f879.m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "TPBS ",
+"image": "https://tv.xtemus.com/images/ch-thaipbs.png",
+"url": "http://host4.dynns.com/stream/d7182fae6e9f4d929bdb5ae06059bda8.m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "ALTV ",
+"image": "https://tv.xtemus.com/images/ch-altv4.png",
+"url": "http://host4.dynns.com/stream/7bf5523a5d1d48948b817d7b37660a4d.m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "TPTV ",
+"image": "https://tv.xtemus.com/images/ch-tptv.png",
+"url": "http://host4.dynns.com/stream/e1464d4ef4aa4bbc972073bb4ebe17fd.m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "TNN",
+"image": "https://tv.xtemus.com/images/ch-tnn16.png",
+"url": "http://host4.dynns.com/stream/77774220bb8e40aa94e549e29ff3ed8a.m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "JKN 18 ",
+"image": "https://tv.xtemus.com/images/ch-jkn18.png",
+"url": "http://host4.dynns.com/stream/0d01fdc1362f427ca5527c645f5f908f.m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "Nation TV ",
+"image": "https://tv.xtemus.com/images/ch-nationtv.png",
+"url": "http://host4.dynns.com/stream/a5b25476119b46f5b5a34d56f7d1156c.m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "Workpoint ",
+"image": "https://tv.xtemus.com/images/ch-workpoint.png",
+"url": "http://host4.dynns.com/stream/a9a68ab5471d4d39ba25695a66957067.m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "True4u ",
+"image": "https://tv.xtemus.com/images/ch-true4u.png",
+"url": "http://host4.dynns.com/stream/9ece9059930d4331a3d445f96fb30dff.m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "GMM25 ",
+"image": "https://tv.xtemus.com/images/ch-gmm25.png",
+"url": "http://host4.dynns.com/stream/ab0b43ef8363438098a94101e93ca138.m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "CH8 ",
+"image": "https://tv.xtemus.com/images/ch-8.png",
+"url": "http://host4.dynns.com/stream/15c52eeb21b748319771eb794a6cf242.m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "Mono 29 ",
+"image": "https://tv.xtemus.com/images/ch-mono29.png",
+"url": "http://host4.dynns.com/stream/fd23603db67344c69a8304a2fca268cd.m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "Mcot HD",
+"image": "https://tv.xtemus.com/images/ch-mcot.png",
+"url": "http://host4.dynns.com/stream/3ae2fd6ccaf6499e898de377ed74ea12.m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "One31 ",
+"image": "https://tv.xtemus.com/images/ch-one31.png",
+"url": "http://host4.dynns.com/stream/7e069540a35942e89245865a84add64a.m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "Thairath TV ",
+"image": "https://tv.xtemus.com/images/ch-thairath.png",
+"url": "http://host4.dynns.com/stream/b1bc90419ccb4885bb0b544bb2b8ee83.m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "3HD ",
+"image": "https://tv.xtemus.com/images/ch-3hd.png",
+"url": "http://host4.dynns.com/stream/a4485b656d764f308c63b14a8bf62326.m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "Amarin TV ",
+"image": "https://tv.xtemus.com/images/ch-amarin.png",
+"url": "http://host4.dynns.com/stream/78f57ebcf6064b308d75208a20756983.m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "7HD ",
+"image": "https://tv.xtemus.com/images/ch-7hd.png",
+"url": "http://host4.dynns.com/stream/ddfa47e726444446864b14e0e819fdde.m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "PPTV ",
+"image": "https://tv.xtemus.com/images/ch-pptv36.png",
+"url": "http://host4.dynns.com/stream/623d009180394c528880c14e2254452a.m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "PPTV ",
+"image": "https://tv.xtemus.com/images/ch-pptv36.png",
+"url": "https://tv.xtemus.com/watch.php?ch=m5x5n4v5n413u2u256t4w4u2t5m4l4p48484742344l5f4h404j4n5t4a4",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "Top News",
+"image": "https://overseer.blackboxsys.net/images/png/hd-topnews.png",
+"url": "https://live.topnews.co.th/hls/topnews_a_480.m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "NEWS 1",
+"image": "https://drive.google.com/uc?id=1y8PDmvDkAolspd31ZGpIGSeF0BnRiqtO",
+"url": "https://server1.streamssl.com/stream/news1_hi.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "ฟ้าวันใหม่",
+"image": "https://www.blueskychannel.tv/wp-content/uploads/2021/06/Big-logo-BSC-web.png",
+"url": "https://5ca295a97d887.streamlock.net/blueskychannel/blueskychannel/chunklist.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "บุรีรมย์ tv",
+"image": "https://drive.google.com/uc?id=1zpMELfBge01t8dGsGcYeRQgOpJ42CiN0",              
+"url": "https://live.thaitvstream.com/play/studio/index.m3u8",
+"playInNatPlayer": "true"
+},
+{
+"name": "เชียงราย แชลแนล",
+"image": "https://boxmovie-th.com/253sadweqe/backend/web/upload/movie/1603632362127_movie_image.jpg",              
+"url": "https://live.thaitvstream.com/play/chiangrai/index.m3u8",
+"playInNatPlayer": "true"
+},
+]
+}
